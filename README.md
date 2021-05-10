@@ -1,4 +1,4 @@
-# Time-Series-Homework
+# Time Series Analysis
 
 ### Background
 This project uses the many time-series tools (Hodrick-Prescott Filter, ARMA model, GARCH model, linear regression, etc.) to predict future movements in the value of the Japanese yen versus the U.S. dollar.
